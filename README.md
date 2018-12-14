@@ -1,5 +1,3 @@
-# String-Manager-Modules
-This project contains some classes that give you the ability to manage strings by character-to-character!
 
 ## Classes 
 
