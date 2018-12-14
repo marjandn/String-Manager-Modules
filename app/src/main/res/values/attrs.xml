@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--set attr for declare space in xml file-->
+
+    <declare-styleable name="LetterSpacingTextView">
+        <attr name="ls_space" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="WordSpacingTextView">
+        <attr name="ws_space" format="float"/>
+    </declare-styleable>
+</resources>
