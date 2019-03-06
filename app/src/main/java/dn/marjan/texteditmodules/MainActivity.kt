@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //for set span programmatically
+                //this is test for gitkraken
 //        txv_ws.mWordSpacing = 3.2F
 //
 //        txv_ls.mLetterSpacing = 3.2F
